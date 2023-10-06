@@ -1,0 +1,578 @@
+[
+    {
+        "name": "Alice",
+        "age": 30,
+        "address": {
+            "street": "123 Main St",
+            "city": "New York",
+            "zipcode": "10001"
+        },
+        "contacts": [
+            {
+                "type": "email",
+                "value": "alice@example.com"
+            },
+            {
+                "type": "phone",
+                "value": "123-456-7890"
+            }
+        ],
+        "languages": ["English", "Spanish"],
+        "interests": {
+            "hobbies": ["Reading", "Hiking"],
+            "sports": ["Tennis", "Swimming"]
+        }
+    },
+    {
+        "name": "Bob",
+        "age": 25,
+        "address": {
+            "street": "456 Elm St",
+            "city": "Los Angeles",
+            "zipcode": "90001"
+        },
+        "contacts": [
+            {
+                "type": "email",
+                "value": "bob@example.com"
+            },
+            {
+                "type": "phone",
+                "value": "987-654-3210"
+            }
+        ],
+        "languages": ["English", "French"],
+        "interests": {
+            "hobbies": ["Cooking", "Gardening"],
+            "sports": ["Basketball", "Cycling"]
+        }
+    },
+    {
+        "name": "Charlie",
+        "age": 35,
+        "address": {
+            "street": "789 Oak St",
+            "city": "Chicago",
+            "zipcode": "60601"
+        },
+        "contacts": [
+            {
+                "type": "email",
+                "value": "charlie@example.com"
+            },
+            {
+                "type": "phone",
+                "value": "555-123-4567"
+            }
+        ],
+        "languages": ["English", "German"],
+        "interests": {
+            "hobbies": ["Painting", "Photography"],
+            "sports": ["Soccer", "Running"]
+        }
+    },
+    {
+        "name": "David",
+        "age": 28,
+        "address": {
+            "street": "567 Pine St",
+            "city": "San Francisco",
+            "zipcode": "94101"
+        },
+        "contacts": [
+            {
+                "type": "email",
+                "value": "david@example.com"
+            },
+            {
+                "type": "phone",
+                "value": "415-555-1234"
+            }
+        ],
+        "languages": ["English", "Spanish"],
+        "interests": {
+            "hobbies": ["Traveling", "Cooking"],
+            "sports": ["Soccer", "Swimming"]
+        }
+    },
+    {
+        "name": "Eva",
+        "age": 32,
+        "address": {
+            "street": "890 Oakwood Dr",
+            "city": "Miami",
+            "zipcode": "33101"
+        },
+        "contacts": [
+            {
+                "type": "email",
+                "value": "eva@example.com"
+            },
+            {
+                "type": "phone",
+                "value": "786-555-5678"
+            }
+        ],
+        "languages": ["English", "French"],
+        "interests": {
+            "hobbies": ["Reading", "Painting"],
+            "sports": ["Tennis", "Cycling"]
+        }
+    },
+    {
+        "name": "Fiona",
+        "age": 27,
+        "address": {
+            "street": "345 Maple Ln",
+            "city": "Seattle",
+            "zipcode": "98101"
+        },
+        "contacts": [
+            {
+                "type": "email",
+                "value": "fiona@example.com"
+            },
+            {
+                "type": "phone",
+                "value": "206-555-7890"
+            }
+        ],
+        "languages": ["English", "German"],
+        "interests": {
+            "hobbies": ["Hiking", "Photography"],
+            "sports": ["Basketball", "Running"]
+        }
+    },
+    {
+        "name": "George",
+        "age": 45,
+        "address": {
+            "street": "678 Elmwood Ave",
+            "city": "Boston",
+            "zipcode": "02101"
+        },
+        "contacts": [
+            {
+                "type": "email",
+                "value": "george@example.com"
+            },
+            {
+                "type": "phone",
+                "value": "617-555-1234"
+            }
+        ],
+        "languages": ["English", "Spanish"],
+        "interests": {
+            "hobbies": ["Cooking", "Gardening"],
+            "sports": ["Tennis", "Swimming"]
+        }
+    },
+    {
+        "name": "Hannah",
+        "age": 29,
+        "address": {
+            "street": "456 Oak Lane",
+            "city": "Denver",
+            "zipcode": "80201"
+        },
+        "contacts": [
+            {
+                "type": "email",
+                "value": "hannah@example.com"
+            },
+            {
+                "type": "phone",
+                "value": "303-555-5678"
+            }
+        ],
+        "languages": ["English", "French"],
+        "interests": {
+            "hobbies": ["Reading", "Traveling"],
+            "sports": ["Soccer", "Cycling"]
+        }
+    },
+    {
+        "name": "Isaac",
+        "age": 38,
+        "address": {
+            "street": "789 Cedar Rd",
+            "city": "Austin",
+            "zipcode": "73301"
+        },
+        "contacts": [
+            {
+                "type": "email",
+                "value": "isaac@example.com"
+            },
+            {
+                "type": "phone",
+                "value": "512-555-7890"
+            }
+        ],
+        "languages": ["English", "German"],
+        "interests": {
+            "hobbies": ["Hiking", "Painting"],
+            "sports": ["Basketball", "Running"]
+        }
+    },
+    {
+        "name": "Alex",
+        "age": 30,
+        "address": {
+            "street": "12 Main St",
+            "city": "New York",
+            "zipcode": "10022"
+        },
+        "contacts": [
+            {
+                "type": "email",
+                "value": "alex@example.com"
+            },
+            {
+                "type": "phone",
+                "value": "123-456-7890"
+            }
+        ],
+        "languages": ["English", "Spanish"],
+        "interests": {
+            "hobbies": ["Reading", "Hiking"],
+            "sports": ["Tennis", "Swimming"]
+        }
+    },
+    {
+        "name": "Ella",
+        "age": 28,
+        "address": {
+            "street": "24 Oak Ave",
+            "city": "Los Angeles",
+            "zipcode": "90001"
+        },
+        "contacts": [
+            {
+                "type": "email",
+                "value": "ella@example.com"
+            },
+            {
+                "type": "phone",
+                "value": "987-654-3210"
+            }
+        ],
+        "languages": ["English", "French"],
+        "interests": {
+            "hobbies": ["Cooking", "Gardening"],
+            "sports": ["Basketball", "Cycling"]
+        }
+    },
+    {
+        "name": "Liam",
+        "age": 32,
+        "address": {
+            "street": "36 Maple Ln",
+            "city": "Chicago",
+            "zipcode": "60601"
+        },
+        "contacts": [
+            {
+                "type": "email",
+                "value": "liam@example.com"
+            },
+            {
+                "type": "phone",
+                "value": "555-123-4567"
+            }
+        ],
+        "languages": ["English"],
+        "interests": {
+            "hobbies": ["Photography"],
+            "sports": ["Soccer"]
+        }
+    },
+    {
+        "name": "Mia",
+        "age": 27,
+        "address": {
+            "street": "48 Elm Rd",
+            "city": "San Francisco",
+            "zipcode": "94101"
+        },
+        "contacts": [
+            {
+                "type": "email",
+                "value": "mia@example.com"
+            },
+            {
+                "type": "phone",
+                "value": "123-789-4560"
+            }
+        ],
+        "languages": ["English", "Spanish"],
+        "interests": {
+            "hobbies": ["Painting", "Traveling"],
+            "sports": ["Swimming", "Tennis"]
+        }
+    },
+    {
+        "name": "Noah",
+        "age": 29,
+        "address": {
+            "street": "60 Pine St",
+            "city": "Miami",
+            "zipcode": "33101"
+        },
+        "contacts": [
+            {
+                "type": "email",
+                "value": "noah@example.com"
+            },
+            {
+                "type": "phone",
+                "value": "987-123-7890"
+            }
+        ],
+        "languages": ["English", "German"],
+        "interests": {
+            "hobbies": ["Cooking", "Reading"],
+            "sports": ["Soccer", "Basketball"]
+        }
+    },
+    {
+        "name": "Olivia",
+        "age": 31,
+        "address": {
+            "street": "72 Cedar Ave",
+            "city": "Boston",
+            "zipcode": "02101"
+        },
+        "contacts": [
+            {
+                "type": "email",
+                "value": "olivia@example.com"
+            },
+            {
+                "type": "phone",
+                "value": "555-789-1234"
+            }
+        ],
+        "languages": ["English", "French"],
+        "interests": {
+            "hobbies": ["Hiking", "Yoga"],
+            "sports": ["Tennis", "Swimming"]
+        }
+    },
+    {
+        "name": "Lucas",
+        "age": 26,
+        "address": {
+            "street": "84 Oak Rd",
+            "city": "Seattle",
+            "zipcode": "98101"
+        },
+        "contacts": [
+            {
+                "type": "email",
+                "value": "lucas@example.com"
+            },
+            {
+                "type": "phone",
+                "value": "123-456-7890"
+            }
+        ],
+        "languages": ["English"],
+        "interests": {
+            "hobbies": ["Photography", "Traveling"],
+            "sports": ["Cycling", "Tennis"]
+        }
+    },
+    {
+        "name": "Ava",
+        "age": 33,
+        "address": {
+            "street": "96 Maple Ave",
+            "city": "Austin",
+            "zipcode": "73301"
+        },
+        "contacts": [
+            {
+                "type": "email",
+                "value": "ava@example.com"
+            },
+            {
+                "type": "phone",
+                "value": "555-987-6543"
+            }
+        ],
+        "languages": ["English", "Spanish"],
+        "interests": {
+            "hobbies": ["Painting", "Reading"],
+            "sports": ["Tennis", "Swimming"]
+        }
+    },
+    {
+        "name": "Sophia",
+        "age": 29,
+        "address": {
+            "street": "15 Elm Rd",
+            "city": "Chicago",
+            "zipcode": "60601"
+        },
+        "contacts": [
+            {
+                "type": "email",
+                "value": "sophia@example.com"
+            },
+            {
+                "type": "phone",
+                "value": "555-123-7890"
+            }
+        ],
+        "languages": ["English", "Spanish"],
+        "interests": {
+            "hobbies": ["Cooking", "Yoga"],
+            "sports": ["Tennis", "Swimming"]
+        }
+    },
+    {
+        "name": "Jackson",
+        "age": 31,
+        "address": {
+            "street": "21 Pine St",
+            "city": "Los Angeles",
+            "zipcode": "90001"
+        },
+        "contacts": [
+            {
+                "type": "email",
+                "value": "jackson@example.com"
+            },
+            {
+                "type": "phone",
+                "value": "123-789-4560"
+            }
+        ],
+        "languages": ["English", "French"],
+        "interests": {
+            "hobbies": ["Hiking", "Reading"],
+            "sports": ["Basketball", "Cycling"]
+        }
+    },
+    {
+        "name": "Sophia",
+        "age": 27,
+        "address": {
+            "street": "18 Cedar Ave",
+            "city": "San Francisco",
+            "zipcode": "94101"
+        },
+        "contacts": [
+            {
+                "type": "email",
+                "value": "sophia@example.com"
+            },
+            {
+                "type": "phone",
+                "value": "555-987-6543"
+            }
+        ],
+        "languages": ["English", "Spanish"],
+        "interests": {
+            "hobbies": ["Painting", "Traveling"],
+            "sports": ["Swimming", "Tennis"]
+        }
+    },
+    {
+        "name": "Liam",
+        "age": 30,
+        "address": {
+            "street": "33 Oak Ln",
+            "city": "Miami",
+            "zipcode": "33101"
+        },
+        "contacts": [
+            {
+                "type": "email",
+                "value": "liam@example.com"
+            },
+            {
+                "type": "phone",
+                "value": "123-456-7890"
+            }
+        ],
+        "languages": ["English", "German"],
+        "interests": {
+            "hobbies": ["Cooking", "Gardening"],
+            "sports": ["Soccer", "Basketball"]
+        }
+    },
+    {
+        "name": "Olivia",
+        "age": 32,
+        "address": {
+            "street": "27 Main Ave",
+            "city": "Boston",
+            "zipcode": "02101"
+        },
+        "contacts": [
+            {
+                "type": "email",
+                "value": "olivia@example.com"
+            },
+            {
+                "type": "phone",
+                "value": "987-654-3210"
+            }
+        ],
+        "languages": ["English", "French"],
+        "interests": {
+            "hobbies": ["Reading", "Hiking"],
+            "sports": ["Tennis", "Swimming"]
+        }
+    },
+    {
+        "name": "Noah",
+        "age": 28,
+        "address": {
+            "street": "42 Cedar Rd",
+            "city": "Austin",
+            "zipcode": "73301"
+        },
+        "contacts": [
+            {
+                "type": "email",
+                "value": "noah@example.com"
+            },
+            {
+                "type": "phone",
+                "value": "555-123-4567"
+            }
+        ],
+        "languages": ["English", "Spanish"],
+        "interests": {
+            "hobbies": ["Photography", "Traveling"],
+            "sports": ["Cycling", "Tennis"]
+        }
+    },
+    {
+        "name": "Mia",
+        "age": 26,
+        "address": {
+            "street": "39 Elm St",
+            "city": "Denver",
+            "zipcode": "80201"
+        },
+        "contacts": [
+            {
+                "type": "email",
+                "value": "mia@example.com"
+            },
+            {
+                "type": "phone",
+                "value": "123-789-4560"
+            }
+        ],
+        "languages": ["English", "French"],
+        "interests": {
+            "hobbies": ["Cooking", "Reading"],
+            "sports": ["Swimming", "Basketball"]
+        }
+    }
+]
